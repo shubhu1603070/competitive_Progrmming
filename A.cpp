@@ -128,7 +128,7 @@ int solve() {
 int main()
 {
 	input
-	cout << "L";
+	cout << "m";
 	return 0;
 }
 
